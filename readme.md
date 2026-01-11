@@ -9,3 +9,10 @@ I have an AudioMoth device set up outside that gives me audio recordings at cert
 Each audio file is split into 3 second files and only one species is detected per segment (so if there's overlap you may miss a bird). This also means that you can convert number of detections to time active (by multiplying by 3) and could probably use that with the total time recording to do some more analysis.
 
 This code ideally will work infinitely with new files that are collected! The detection windows have been expanded to get more than just sunrise/sunset.
+
+## Pictures!
+The bird chart. Only shows times with detections.
+![Bird Chart](pics/bird_ex_1.png)
+
+The temperature graph. Pulls from historical Open-Meteo data and lat/long!
+![Temperature Graph](pics/temp_ex_1.png)
