@@ -1,0 +1,803 @@
+Bird_Species,Timestamp,Start_Offset,Confidence,Temperature,Filename,Battery_Voltage
+Northern Cardinal,2026-01-07 16:06:00-05:00,0.0,0.7189035415649414,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Northern Cardinal,2026-01-07 16:06:00-05:00,3.0,0.9436460733413696,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Northern Cardinal,2026-01-07 16:06:00-05:00,6.0,0.9677249789237976,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Northern Cardinal,2026-01-07 16:06:00-05:00,12.0,0.9553274512290955,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Northern Cardinal,2026-01-07 16:06:00-05:00,15.0,0.9260638952255249,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Northern Cardinal,2026-01-07 16:06:00-05:00,18.0,0.6727290153503418,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Northern Cardinal,2026-01-07 16:06:00-05:00,36.0,0.7074715495109558,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Airplane,2026-01-07 16:06:00-05:00,39.0,0.8224507570266724,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Airplane,2026-01-07 16:06:00-05:00,45.0,0.9776155352592468,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Airplane,2026-01-07 16:06:00-05:00,48.0,0.7192705869674683,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210600.WAV,3.5
+Downy Woodpecker,2026-01-07 16:43:00-05:00,6.0,0.8380922079086304,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214300.WAV,3.2
+Downy Woodpecker,2026-01-07 16:43:00-05:00,21.0,0.9157048463821411,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214300.WAV,3.2
+Downy Woodpecker,2026-01-07 16:43:00-05:00,30.0,0.8176674246788025,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214300.WAV,3.2
+Airplane,2026-01-08 16:01:00-05:00,0.0,0.9454377293586731,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,3.0,0.9639965295791626,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,6.0,0.8762726187705994,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,9.0,0.9268870949745178,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,15.0,0.9220462441444397,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,18.0,0.8426051139831543,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,21.0,0.7815075516700745,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,24.0,0.8721025586128235,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Airplane,2026-01-08 16:01:00-05:00,27.0,0.8535655736923218,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Dark-eyed Junco,2026-01-08 16:01:00-05:00,30.0,0.6881459951400757,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160100.WAV,3.7
+Blue Jay,2026-01-09 07:35:00-05:00,0.0,0.84815514087677,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_073500.WAV,3.2
+American Crow,2026-01-07 16:22:00-05:00,0.0,0.8122028112411499,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_212200.WAV,3.4
+Fish Crow,2026-01-07 16:22:00-05:00,24.0,0.8088338971138,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_212200.WAV,3.4
+Fish Crow,2026-01-07 16:22:00-05:00,42.0,0.7551660537719727,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_212200.WAV,3.4
+Carolina Wren,2026-01-07 07:54:00-05:00,0.0,0.9955547451972961,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,3.0,0.9654536843299866,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,9.0,0.9663573503494263,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,12.0,0.859693169593811,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,15.0,0.9922183752059937,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Airplane,2026-01-07 07:54:00-05:00,18.0,0.7244510650634766,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,21.0,0.9858127236366272,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,27.0,0.8143011331558228,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,33.0,0.9721590876579285,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,39.0,0.9985364675521851,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+Carolina Wren,2026-01-07 07:54:00-05:00,45.0,0.9827734231948853,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_125400.WAV,3.5
+White-breasted Nuthatch,2026-01-08 16:25:00-05:00,30.0,0.7446309924125671,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162500.WAV,3.2
+American Crow,2026-01-09 08:07:00-05:00,3.0,0.6715579032897949,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+American Crow,2026-01-09 08:07:00-05:00,18.0,0.8776765465736389,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+American Crow,2026-01-09 08:07:00-05:00,30.0,0.9251793026924133,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+American Crow,2026-01-09 08:07:00-05:00,33.0,0.9780378341674805,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+American Crow,2026-01-09 08:07:00-05:00,42.0,0.7843353748321533,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+Airplane,2026-01-09 08:07:00-05:00,45.0,0.9001287817955017,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+American Crow,2026-01-09 08:07:00-05:00,48.0,0.8026952743530273,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080700.WAV,3.2
+Downy Woodpecker,2026-01-08 08:29:00-05:00,0.0,0.9252001047134399,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260108_132900.WAV,3.2
+Downy Woodpecker,2026-01-08 08:29:00-05:00,3.0,0.8468807339668274,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260108_132900.WAV,3.2
+Downy Woodpecker,2026-01-08 08:29:00-05:00,9.0,0.8144376873970032,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260108_132900.WAV,3.2
+Downy Woodpecker,2026-01-08 08:29:00-05:00,12.0,0.8673079609870911,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260108_132900.WAV,3.2
+Downy Woodpecker,2026-01-08 08:29:00-05:00,18.0,0.9679277539253235,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260108_132900.WAV,3.2
+Downy Woodpecker,2026-01-08 08:29:00-05:00,42.0,0.774150013923645,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260108_132900.WAV,3.2
+American Crow,2026-01-08 07:36:00-05:00,9.0,0.8466694355010986,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_123600.WAV,3.3
+American Crow,2026-01-08 07:36:00-05:00,39.0,0.8667237162590027,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_123600.WAV,3.3
+American Crow,2026-01-08 07:36:00-05:00,42.0,0.8462625741958618,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_123600.WAV,3.3
+American Crow,2026-01-08 07:36:00-05:00,51.0,0.8222970366477966,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_123600.WAV,3.3
+Dark-eyed Junco,2026-01-09 08:05:00-05:00,0.0,0.6684919595718384,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:05:00-05:00,6.0,0.8910458087921143,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+American Crow,2026-01-09 08:05:00-05:00,18.0,0.6840497255325317,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+American Crow,2026-01-09 08:05:00-05:00,21.0,0.7017348408699036,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:05:00-05:00,42.0,0.9348066449165344,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+American Crow,2026-01-09 08:05:00-05:00,48.0,0.6763894557952881,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+American Crow,2026-01-09 08:05:00-05:00,51.0,0.7323068380355835,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080500.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,15.0,0.820654571056366,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,21.0,0.6673145294189453,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,24.0,0.9316005110740662,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,27.0,0.6958810091018677,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,30.0,0.8957364559173584,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,33.0,0.7717786431312561,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Airplane,2026-01-07 16:58:00-05:00,39.0,0.932490885257721,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215800.WAV,3.2
+Brown Creeper,2026-01-09 07:56:00-05:00,42.0,0.756496012210846,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_075600.WAV,3.2
+Blue Jay,2026-01-09 07:56:00-05:00,45.0,0.6907171010971069,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_075600.WAV,3.2
+Downy Woodpecker,2026-01-08 16:27:00-05:00,21.0,0.9585564136505127,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_162700.WAV,3.2
+American Crow,2026-01-08 16:27:00-05:00,30.0,0.6568538546562195,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_162700.WAV,3.2
+American Crow,2026-01-08 16:27:00-05:00,45.0,0.8837949633598328,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_162700.WAV,3.2
+Airplane,2026-01-07 16:04:00-05:00,6.0,0.7833520770072937,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210400.WAV,3.6
+Airplane,2026-01-07 16:04:00-05:00,21.0,0.9128835201263428,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210400.WAV,3.6
+Airplane,2026-01-07 16:04:00-05:00,27.0,0.885822594165802,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210400.WAV,3.6
+Airplane,2026-01-07 16:04:00-05:00,33.0,0.8899823427200317,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210400.WAV,3.6
+Airplane,2026-01-07 16:04:00-05:00,42.0,0.8451054692268372,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210400.WAV,3.6
+Airplane,2026-01-07 16:04:00-05:00,45.0,0.98356032371521,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210400.WAV,3.6
+Downy Woodpecker,2026-01-07 16:41:00-05:00,33.0,0.8360714912414551,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214100.WAV,3.3
+Downy Woodpecker,2026-01-07 16:41:00-05:00,45.0,0.8173419833183289,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214100.WAV,3.3
+Carolina Wren,2026-01-07 17:05:00-05:00,0.0,0.9549649357795715,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220500.WAV,3.2
+Carolina Wren,2026-01-07 17:05:00-05:00,6.0,0.8304904699325562,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220500.WAV,3.2
+Carolina Wren,2026-01-07 17:05:00-05:00,21.0,0.9721757173538208,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220500.WAV,3.2
+Carolina Wren,2026-01-07 17:05:00-05:00,24.0,0.8885458111763,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220500.WAV,3.2
+Carolina Wren,2026-01-07 17:05:00-05:00,30.0,0.6982195377349854,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220500.WAV,3.2
+Carolina Wren,2026-01-07 17:05:00-05:00,45.0,0.7334587574005127,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220500.WAV,3.2
+Airplane,2026-01-08 16:46:00-05:00,0.0,0.837520956993103,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_164600.WAV,3.2
+Airplane,2026-01-08 16:46:00-05:00,9.0,0.7309445142745972,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_164600.WAV,3.2
+Airplane,2026-01-08 16:46:00-05:00,12.0,0.6797540187835693,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_164600.WAV,3.2
+Airplane,2026-01-08 16:46:00-05:00,18.0,0.7427014112472534,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_164600.WAV,3.2
+Airplane,2026-01-08 16:46:00-05:00,21.0,0.7086555361747742,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_164600.WAV,3.2
+Airplane,2026-01-08 16:03:00-05:00,6.0,0.8261916637420654,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260108_160300.WAV,3.5
+Airplane,2026-01-08 16:03:00-05:00,12.0,0.6940715312957764,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260108_160300.WAV,3.5
+Airplane,2026-01-08 16:03:00-05:00,18.0,0.9629918932914734,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260108_160300.WAV,3.5
+Airplane,2026-01-08 16:03:00-05:00,27.0,0.7404946684837341,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260108_160300.WAV,3.5
+Airplane,2026-01-08 16:03:00-05:00,45.0,0.8612028956413269,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260108_160300.WAV,3.5
+Whimbrel,2026-01-09 07:37:00-05:00,3.0,0.9237587451934814,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073700.WAV,3.2
+Downy Woodpecker,2026-01-07 08:17:00-05:00,0.0,0.955008327960968,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,3.0,0.7599181532859802,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,6.0,0.8524816036224365,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,9.0,0.9621793031692505,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,12.0,0.9333333373069763,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,15.0,0.9291800856590271,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,18.0,0.9330470561981201,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,21.0,0.9881424307823181,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,24.0,0.9573881030082703,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,30.0,0.9659438729286194,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,33.0,0.9699515104293823,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,36.0,0.9696385860443115,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,39.0,0.9605635404586792,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,45.0,0.8922218084335327,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,48.0,0.9691951870918274,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:17:00-05:00,51.0,0.958120584487915,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_131700.WAV,3.3
+American Crow,2026-01-09 08:21:00-05:00,21.0,0.9861278533935547,43.52,/Users/patrick/Desktop/creation/birds/recordings/20260109_082100.WAV,3.2
+Golden-crowned Kinglet,2026-01-08 07:57:00-05:00,12.0,0.7192626595497131,33.62,/Users/patrick/Desktop/creation/birds/recordings/20260108_125700.WAV,3.2
+Airplane,2026-01-09 16:17:00-05:00,51.0,0.8494266271591187,51.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_161700.WAV,3.2
+Tufted Titmouse,2026-01-09 16:52:00-05:00,15.0,0.8643739819526672,51.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_165200.WAV,3.1
+American Crow,2026-01-09 08:18:00-05:00,3.0,0.8898199796676636,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,9.0,0.8170977830886841,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,12.0,0.9822324514389038,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,30.0,0.9676057696342468,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,36.0,0.8179953694343567,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,39.0,0.7211928963661194,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,42.0,0.874589741230011,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,45.0,0.8364956974983215,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+American Crow,2026-01-09 08:18:00-05:00,51.0,0.9109594225883484,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081800.WAV,3.2
+Airplane,2026-01-08 16:42:00-05:00,18.0,0.8180648684501648,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260108_164200.WAV,3.2
+Airplane,2026-01-08 16:42:00-05:00,21.0,0.9018691778182983,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260108_164200.WAV,3.2
+Airplane,2026-01-08 16:42:00-05:00,42.0,0.7095637917518616,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260108_164200.WAV,3.2
+Airplane,2026-01-08 16:07:00-05:00,39.0,0.679951012134552,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160700.WAV,3.3
+Blue Jay,2026-01-09 07:33:00-05:00,30.0,0.8236070871353149,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_073300.WAV,3.3
+Blue Jay,2026-01-09 07:33:00-05:00,33.0,0.7169809937477112,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_073300.WAV,3.3
+Airplane,2026-01-07 17:01:00-05:00,27.0,0.6665101051330566,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220100.WAV,3.2
+Airplane,2026-01-07 17:01:00-05:00,36.0,0.7222074866294861,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220100.WAV,3.2
+Airplane,2026-01-07 17:01:00-05:00,42.0,0.8820396661758423,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220100.WAV,3.2
+Airplane,2026-01-07 17:01:00-05:00,45.0,0.7587133646011353,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220100.WAV,3.2
+Airplane,2026-01-07 17:01:00-05:00,51.0,0.6898403763771057,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220100.WAV,3.2
+Airplane,2026-01-07 16:00:00-05:00,0.0,0.8876736164093018,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,3.0,0.9291080236434937,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,6.0,0.6962155699729919,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,9.0,0.8635435700416565,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,15.0,0.8145381808280945,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,18.0,0.9104562401771545,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,21.0,0.9767858982086182,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,24.0,0.8426339626312256,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,27.0,0.984599769115448,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,30.0,0.7738751769065857,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,36.0,0.7523918747901917,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,39.0,0.8586704134941101,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,42.0,0.9492923617362976,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,45.0,0.7042256593704224,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:00:00-05:00,51.0,0.6833311319351196,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_210000.WAV,4.1
+Airplane,2026-01-07 16:45:00-05:00,48.0,0.6822447776794434,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260107_214500.WAV,3.2
+American Crow,2026-01-07 07:33:00-05:00,12.0,0.7129276394844055,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_123300.WAV,3.5
+Airplane,2026-01-09 16:56:00-05:00,21.0,0.8191543221473694,51.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_165600.WAV,3.2
+Airplane,2026-01-09 16:56:00-05:00,24.0,0.6820663809776306,51.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_165600.WAV,3.2
+Downy Woodpecker,2026-01-07 08:13:00-05:00,12.0,0.9371598958969116,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131300.WAV,3.4
+Airplane,2026-01-07 08:13:00-05:00,30.0,0.70479416847229,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131300.WAV,3.4
+American Crow,2026-01-07 08:13:00-05:00,42.0,0.7249873876571655,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131300.WAV,3.4
+Tufted Titmouse,2026-01-07 08:13:00-05:00,48.0,0.8382082581520081,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131300.WAV,3.4
+Tufted Titmouse,2026-01-07 08:13:00-05:00,51.0,0.9041395783424377,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131300.WAV,3.4
+American Crow,2026-01-09 08:25:00-05:00,42.0,0.6862533092498779,43.52,/Users/patrick/Desktop/creation/birds/recordings/20260109_082500.WAV,3.2
+Airplane,2026-01-07 16:19:00-05:00,0.0,0.9620683789253235,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_211900.WAV,3.4
+Airplane,2026-01-07 16:19:00-05:00,3.0,0.978888213634491,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_211900.WAV,3.4
+Airplane,2026-01-07 16:19:00-05:00,6.0,0.8984545469284058,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_211900.WAV,3.4
+Airplane,2026-01-07 16:19:00-05:00,9.0,0.736876904964447,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_211900.WAV,3.4
+American Crow,2026-01-09 08:01:00-05:00,48.0,0.8849377632141113,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080100.WAV,3.2
+American Crow,2026-01-08 07:32:00-05:00,45.0,0.6797209978103638,33.62,/Users/patrick/Desktop/creation/birds/recordings/20260108_123200.WAV,3.3
+Blue Jay,2026-01-09 07:52:00-05:00,18.0,0.8399100303649902,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_075200.WAV,3.2
+Carolina Wren,2026-01-09 07:17:00-05:00,12.0,0.8166884183883667,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_071700.WAV,3.5
+Carolina Wren,2026-01-09 07:17:00-05:00,18.0,0.899397611618042,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_071700.WAV,3.5
+Carolina Wren,2026-01-09 07:17:00-05:00,24.0,0.8049378991127014,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_071700.WAV,3.5
+Carolina Wren,2026-01-09 07:17:00-05:00,27.0,0.7079371809959412,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_071700.WAV,3.5
+Airplane,2026-01-07 16:24:00-05:00,6.0,0.9048555493354797,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212400.WAV,3.4
+Airplane,2026-01-07 16:24:00-05:00,9.0,0.7771351337432861,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212400.WAV,3.4
+Airplane,2026-01-07 16:24:00-05:00,12.0,0.8332432508468628,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212400.WAV,3.4
+White-breasted Nuthatch,2026-01-07 16:24:00-05:00,21.0,0.9886472821235657,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212400.WAV,3.4
+Airplane,2026-01-07 16:24:00-05:00,24.0,0.9087321162223816,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212400.WAV,3.4
+Airplane,2026-01-07 16:24:00-05:00,27.0,0.9746939539909363,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212400.WAV,3.4
+Airplane,2026-01-07 08:08:00-05:00,3.0,0.6844450831413269,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130800.WAV,3.4
+Airplane,2026-01-07 08:08:00-05:00,9.0,0.6537418961524963,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130800.WAV,3.4
+Airplane,2026-01-07 08:08:00-05:00,15.0,0.7111994028091431,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130800.WAV,3.4
+Airplane,2026-01-07 08:08:00-05:00,30.0,0.7502702474594116,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130800.WAV,3.4
+American Crow,2026-01-07 08:08:00-05:00,51.0,0.8694592714309692,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130800.WAV,3.4
+Airplane,2026-01-09 17:15:00-05:00,39.0,0.7310513257980347,51.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_171500.WAV,3.2
+American Crow,2026-01-09 07:50:00-05:00,6.0,0.7280105352401733,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_075000.WAV,3.2
+Brown Creeper,2026-01-09 07:50:00-05:00,48.0,0.7567272186279297,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_075000.WAV,3.2
+Blue Jay,2026-01-09 07:50:00-05:00,51.0,0.819916844367981,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_075000.WAV,3.2
+White-breasted Nuthatch,2026-01-08 16:21:00-05:00,48.0,0.8319230675697327,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_162100.WAV,3.2
+Carolina Wren,2026-01-09 07:15:00-05:00,36.0,0.7614709734916687,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071500.WAV,3.9
+Carolina Wren,2026-01-09 07:15:00-05:00,42.0,0.7929058074951172,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071500.WAV,3.9
+Blue Jay,2026-01-08 08:10:00-05:00,30.0,0.749778687953949,35.06,/Users/patrick/Desktop/creation/birds/recordings/20260108_131000.WAV,3.2
+White-breasted Nuthatch,2026-01-07 16:26:00-05:00,36.0,0.8985744714736938,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_212600.WAV,3.4
+American Crow,2026-01-09 08:03:00-05:00,12.0,0.869666576385498,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080300.WAV,3.2
+American Crow,2026-01-09 08:03:00-05:00,27.0,0.6655345559120178,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080300.WAV,3.2
+American Crow,2026-01-09 08:03:00-05:00,30.0,0.8695139288902283,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080300.WAV,3.2
+American Crow,2026-01-09 08:03:00-05:00,45.0,0.8863610029220581,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_080300.WAV,3.2
+Blue Jay,2026-01-09 07:28:00-05:00,15.0,0.7068230509757996,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_072800.WAV,3.1
+Blue Jay,2026-01-09 07:28:00-05:00,36.0,0.7519465088844299,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_072800.WAV,3.1
+Blue Jay,2026-01-09 07:28:00-05:00,42.0,0.6671561598777771,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_072800.WAV,3.1
+Blue Jay,2026-01-09 07:28:00-05:00,48.0,0.7375552654266357,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_072800.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,0.0,0.8062463402748108,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,6.0,0.9154172539710999,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,9.0,0.7843877673149109,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,15.0,0.953300416469574,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,18.0,0.9348941445350647,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,21.0,0.8212911486625671,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,27.0,0.6815506219863892,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Carolina Wren,2026-01-08 16:59:00-05:00,33.0,0.927337110042572,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165900.WAV,3.1
+Dark-eyed Junco,2026-01-08 08:09:00-05:00,15.0,0.6980655789375305,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_130900.WAV,3.1
+American Crow,2026-01-09 07:49:00-05:00,18.0,0.9633070826530457,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_074900.WAV,3.2
+Airplane,2026-01-07 08:11:00-05:00,0.0,0.8184378147125244,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_131100.WAV,3.4
+Airplane,2026-01-07 08:11:00-05:00,9.0,0.7950396537780762,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_131100.WAV,3.4
+Airplane,2026-01-07 08:11:00-05:00,33.0,0.8496991395950317,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_131100.WAV,3.4
+Tufted Titmouse,2026-01-07 08:11:00-05:00,45.0,0.766930878162384,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_131100.WAV,3.4
+Tufted Titmouse,2026-01-07 08:11:00-05:00,51.0,0.6840078234672546,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_131100.WAV,3.4
+Airplane,2026-01-08 16:05:00-05:00,48.0,0.7014431953430176,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160500.WAV,3.4
+Blue Jay,2026-01-09 07:31:00-05:00,6.0,0.8040717244148254,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_073100.WAV,3.3
+Blue Jay,2026-01-09 07:31:00-05:00,33.0,0.7048749327659607,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_073100.WAV,3.3
+Blue Jay,2026-01-09 07:31:00-05:00,36.0,0.9134168028831482,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_073100.WAV,3.3
+Blue Jay,2026-01-09 07:31:00-05:00,45.0,0.7675487399101257,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_073100.WAV,3.3
+Airplane,2026-01-07 16:02:00-05:00,0.0,0.9213374257087708,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+Airplane,2026-01-07 16:02:00-05:00,12.0,0.7346158623695374,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+Airplane,2026-01-07 16:02:00-05:00,15.0,0.8278397917747498,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+Airplane,2026-01-07 16:02:00-05:00,27.0,0.7440193295478821,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+Airplane,2026-01-07 16:02:00-05:00,30.0,0.7740863561630249,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+Airplane,2026-01-07 16:02:00-05:00,39.0,0.8259254693984985,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+White-throated Sparrow,2026-01-07 16:02:00-05:00,51.0,0.6777088642120361,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_210200.WAV,3.7
+White-breasted Nuthatch,2026-01-08 16:26:00-05:00,0.0,0.9581072330474854,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+White-breasted Nuthatch,2026-01-08 16:26:00-05:00,9.0,0.9324361681938171,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+White-breasted Nuthatch,2026-01-08 16:26:00-05:00,18.0,0.8385170102119446,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+Airplane,2026-01-08 16:26:00-05:00,27.0,0.8651806116104126,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+Airplane,2026-01-08 16:26:00-05:00,30.0,0.8878777027130127,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+White-breasted Nuthatch,2026-01-08 16:26:00-05:00,36.0,0.808599591255188,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+Airplane,2026-01-08 16:26:00-05:00,42.0,0.8299139738082886,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260108_162600.WAV,3.2
+Blue Jay,2026-01-09 07:57:00-05:00,0.0,0.7027579545974731,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075700.WAV,3.1
+Downy Woodpecker,2026-01-09 07:57:00-05:00,24.0,0.6623422503471375,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075700.WAV,3.1
+Brown Creeper,2026-01-09 07:57:00-05:00,33.0,0.8734792470932007,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075700.WAV,3.1
+Downy Woodpecker,2026-01-09 07:57:00-05:00,36.0,0.7122542262077332,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075700.WAV,3.1
+Downy Woodpecker,2026-01-09 07:57:00-05:00,39.0,0.6643140316009521,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075700.WAV,3.1
+Airplane,2026-01-07 16:59:00-05:00,24.0,0.841059684753418,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_215900.WAV,3.2
+Airplane,2026-01-07 16:59:00-05:00,30.0,0.9184595346450806,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_215900.WAV,3.2
+Airplane,2026-01-07 16:59:00-05:00,36.0,0.7759851217269897,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_215900.WAV,3.2
+Airplane,2026-01-07 16:59:00-05:00,39.0,0.7024890184402466,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_215900.WAV,3.2
+Airplane,2026-01-07 16:59:00-05:00,42.0,0.7375985383987427,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_215900.WAV,3.2
+American Crow,2026-01-08 07:37:00-05:00,0.0,0.6903181672096252,33.26,/Users/patrick/Desktop/creation/birds/recordings/20260108_123700.WAV,3.3
+American Crow,2026-01-08 07:37:00-05:00,3.0,0.6990292072296143,33.26,/Users/patrick/Desktop/creation/birds/recordings/20260108_123700.WAV,3.3
+American Crow,2026-01-08 07:37:00-05:00,15.0,0.845139741897583,33.26,/Users/patrick/Desktop/creation/birds/recordings/20260108_123700.WAV,3.3
+American Crow,2026-01-08 07:37:00-05:00,24.0,0.6690872311592102,33.26,/Users/patrick/Desktop/creation/birds/recordings/20260108_123700.WAV,3.3
+American Crow,2026-01-09 08:04:00-05:00,3.0,0.8017676472663879,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080400.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:04:00-05:00,15.0,0.9630492925643921,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080400.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:04:00-05:00,18.0,0.8166099786758423,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080400.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:04:00-05:00,21.0,0.6745177507400513,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080400.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:04:00-05:00,24.0,0.9090476632118225,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080400.WAV,3.2
+Dark-eyed Junco,2026-01-09 08:04:00-05:00,39.0,0.6889888048171997,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080400.WAV,3.2
+Downy Woodpecker,2026-01-07 08:16:00-05:00,30.0,0.8096726536750793,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,33.0,0.9587616324424744,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,36.0,0.9811534881591797,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,39.0,0.87167888879776,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,42.0,0.6761456727981567,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,45.0,0.8807393312454224,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,48.0,0.874260663986206,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:16:00-05:00,51.0,0.9948497414588928,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131600.WAV,3.3
+Airplane,2026-01-08 16:02:00-05:00,6.0,0.7390398383140564,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_160200.WAV,3.5
+Airplane,2026-01-08 16:02:00-05:00,51.0,0.7494866251945496,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_160200.WAV,3.5
+Airplane,2026-01-08 16:47:00-05:00,15.0,0.7278459668159485,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164700.WAV,3.2
+Airplane,2026-01-08 16:47:00-05:00,30.0,0.6882346272468567,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164700.WAV,3.2
+Airplane,2026-01-08 16:47:00-05:00,33.0,0.9598388075828552,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164700.WAV,3.2
+Airplane,2026-01-08 16:47:00-05:00,39.0,0.8353288769721985,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164700.WAV,3.2
+White-breasted Nuthatch,2026-01-07 16:05:00-05:00,15.0,0.9488304257392883,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210500.WAV,3.6
+Carolina Wren,2026-01-07 17:04:00-05:00,48.0,0.8964195251464844,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220400.WAV,3.2
+Blue Jay,2026-01-09 07:34:00-05:00,0.0,0.7021896839141846,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073400.WAV,3.3
+Blue Jay,2026-01-09 07:34:00-05:00,24.0,0.6864383816719055,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073400.WAV,3.3
+Blue Jay,2026-01-09 07:34:00-05:00,39.0,0.7459508180618286,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073400.WAV,3.3
+Blue Jay,2026-01-09 07:34:00-05:00,48.0,0.7921372652053833,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073400.WAV,3.3
+Airplane,2026-01-08 16:45:00-05:00,39.0,0.9107208847999573,58.1,/Users/patrick/Desktop/creation/birds/recordings/20260108_164500.WAV,3.2
+Airplane,2026-01-08 16:45:00-05:00,45.0,0.8399592041969299,58.1,/Users/patrick/Desktop/creation/birds/recordings/20260108_164500.WAV,3.2
+Airplane,2026-01-08 16:45:00-05:00,51.0,0.8998419046401978,58.1,/Users/patrick/Desktop/creation/birds/recordings/20260108_164500.WAV,3.2
+Airplane,2026-01-07 17:06:00-05:00,0.0,0.9090471267700195,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220600.WAV,3.2
+Carolina Wren,2026-01-07 17:06:00-05:00,15.0,0.866879403591156,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220600.WAV,3.2
+Airplane,2026-01-07 17:06:00-05:00,18.0,0.7508338689804077,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220600.WAV,3.2
+Carolina Wren,2026-01-07 17:06:00-05:00,21.0,0.8403257131576538,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220600.WAV,3.2
+Carolina Wren,2026-01-07 17:06:00-05:00,27.0,0.7160831689834595,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_220600.WAV,3.2
+Downy Woodpecker,2026-01-07 16:42:00-05:00,3.0,0.9052090048789978,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214200.WAV,3.2
+Downy Woodpecker,2026-01-07 16:42:00-05:00,12.0,0.8168242573738098,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214200.WAV,3.2
+Downy Woodpecker,2026-01-07 16:42:00-05:00,21.0,0.8052051067352295,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214200.WAV,3.2
+Downy Woodpecker,2026-01-07 16:42:00-05:00,39.0,0.9123436808586121,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214200.WAV,3.2
+Downy Woodpecker,2026-01-07 16:42:00-05:00,51.0,0.9573537111282349,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_214200.WAV,3.2
+Northern Cardinal,2026-01-07 16:07:00-05:00,33.0,0.8172711730003357,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260107_210700.WAV,3.5
+Northern Cardinal,2026-01-07 16:07:00-05:00,36.0,0.9126420617103577,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260107_210700.WAV,3.5
+Northern Cardinal,2026-01-07 16:07:00-05:00,39.0,0.896873950958252,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260107_210700.WAV,3.5
+Northern Cardinal,2026-01-07 16:07:00-05:00,42.0,0.7231854796409607,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260107_210700.WAV,3.5
+Northern Cardinal,2026-01-07 16:07:00-05:00,48.0,0.9911351203918457,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260107_210700.WAV,3.5
+Golden-crowned Kinglet,2026-01-08 07:54:00-05:00,24.0,0.8607005476951599,33.26,/Users/patrick/Desktop/creation/birds/recordings/20260108_125400.WAV,3.2
+Tufted Titmouse,2026-01-07 08:14:00-05:00,0.0,0.6635279655456543,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131400.WAV,3.3
+Tufted Titmouse,2026-01-07 08:14:00-05:00,3.0,0.86232990026474,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_131400.WAV,3.3
+Whimbrel,2026-01-08 08:28:00-05:00,0.0,0.7515424489974976,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+White-breasted Nuthatch,2026-01-08 08:28:00-05:00,9.0,0.7842667102813721,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,18.0,0.9024827480316162,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,24.0,0.8562929630279541,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,27.0,0.78314608335495,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,30.0,0.7067946791648865,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,36.0,0.7979874014854431,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,45.0,0.9170904755592346,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,48.0,0.6950131058692932,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Downy Woodpecker,2026-01-08 08:28:00-05:00,51.0,0.69666987657547,35.24,/Users/patrick/Desktop/creation/birds/recordings/20260108_132800.WAV,3.2
+Airplane,2026-01-08 16:19:00-05:00,18.0,0.6619873642921448,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_161900.WAV,3.2
+White-breasted Nuthatch,2026-01-08 16:24:00-05:00,9.0,0.9440755844116211,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_162400.WAV,3.2
+Airplane,2026-01-09 07:55:00-05:00,3.0,0.7755125761032104,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_075500.WAV,3.2
+Golden-crowned Kinglet,2026-01-09 07:55:00-05:00,24.0,0.6948034763336182,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_075500.WAV,3.2
+White-breasted Nuthatch,2026-01-07 16:23:00-05:00,18.0,0.8829495906829834,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_212300.WAV,3.4
+White-breasted Nuthatch,2026-01-07 16:23:00-05:00,21.0,0.8332580327987671,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_212300.WAV,3.4
+Carolina Wren,2026-01-07 07:55:00-05:00,0.0,0.9563526511192322,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_125500.WAV,3.5
+Carolina Wren,2026-01-07 07:55:00-05:00,3.0,0.6650780439376831,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_125500.WAV,3.5
+American Crow,2026-01-09 08:02:00-05:00,9.0,0.6860811114311218,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_080200.WAV,3.2
+American Crow,2026-01-09 08:02:00-05:00,42.0,0.9332146048545837,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_080200.WAV,3.2
+Carolina Wren,2026-01-08 16:58:00-05:00,9.0,0.8252385854721069,56.66,/Users/patrick/Desktop/creation/birds/recordings/20260108_165800.WAV,3.2
+Carolina Wren,2026-01-08 16:58:00-05:00,15.0,0.8036508560180664,56.66,/Users/patrick/Desktop/creation/birds/recordings/20260108_165800.WAV,3.2
+Carolina Wren,2026-01-08 16:58:00-05:00,21.0,0.7835183143615723,56.66,/Users/patrick/Desktop/creation/birds/recordings/20260108_165800.WAV,3.2
+Carolina Wren,2026-01-08 16:58:00-05:00,36.0,0.7120763659477234,56.66,/Users/patrick/Desktop/creation/birds/recordings/20260108_165800.WAV,3.2
+Black-capped Chickadee,2026-01-09 07:29:00-05:00,0.0,0.7999775409698486,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_072900.WAV,3.2
+Carolina Wren,2026-01-09 07:29:00-05:00,36.0,0.7059206962585449,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_072900.WAV,3.2
+Blue Jay,2026-01-09 07:29:00-05:00,42.0,0.7419071197509766,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_072900.WAV,3.2
+Airplane,2026-01-07 07:29:00-05:00,0.0,0.6761988401412964,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_122900.WAV,3.6
+Cedar Waxwing,2026-01-07 07:29:00-05:00,42.0,0.6865988969802856,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_122900.WAV,3.6
+American Crow,2026-01-07 08:09:00-05:00,15.0,0.6552609205245972,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_130900.WAV,3.3
+Blue Jay,2026-01-09 07:51:00-05:00,0.0,0.859636127948761,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_075100.WAV,3.2
+Blue Jay,2026-01-09 07:51:00-05:00,6.0,0.7939690947532654,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_075100.WAV,3.2
+Blue Jay,2026-01-09 07:51:00-05:00,39.0,0.820906400680542,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_075100.WAV,3.2
+Airplane,2026-01-07 16:03:00-05:00,0.0,0.8274850249290466,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_210300.WAV,3.6
+Airplane,2026-01-07 16:03:00-05:00,6.0,0.7084216475486755,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_210300.WAV,3.6
+Airplane,2026-01-07 16:03:00-05:00,12.0,0.9005746841430664,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_210300.WAV,3.6
+Airplane,2026-01-07 16:03:00-05:00,18.0,0.8370650410652161,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_210300.WAV,3.6
+Airplane,2026-01-07 16:03:00-05:00,24.0,0.767392635345459,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_210300.WAV,3.6
+Airplane,2026-01-07 16:03:00-05:00,30.0,0.7374141812324524,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_210300.WAV,3.6
+Airplane,2026-01-07 17:02:00-05:00,0.0,0.8996632695198059,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_220200.WAV,3.2
+Blue Jay,2026-01-09 07:30:00-05:00,0.0,0.7877195477485657,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_073000.WAV,3.3
+Blue Jay,2026-01-09 07:30:00-05:00,9.0,0.8799166679382324,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_073000.WAV,3.3
+Blue Jay,2026-01-09 07:30:00-05:00,15.0,0.7556841373443604,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_073000.WAV,3.3
+Blue Jay,2026-01-09 07:30:00-05:00,21.0,0.7762962579727173,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_073000.WAV,3.3
+Blue Jay,2026-01-09 07:30:00-05:00,39.0,0.7630937099456787,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_073000.WAV,3.3
+Blue Jay,2026-01-09 07:30:00-05:00,51.0,0.7325010895729065,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_073000.WAV,3.3
+Airplane,2026-01-08 16:04:00-05:00,0.0,0.744687020778656,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160400.WAV,3.4
+Airplane,2026-01-08 16:04:00-05:00,3.0,0.7262215614318848,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160400.WAV,3.4
+Airplane,2026-01-08 16:04:00-05:00,33.0,0.6873995065689087,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160400.WAV,3.4
+Airplane,2026-01-08 16:04:00-05:00,42.0,0.829680860042572,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160400.WAV,3.4
+Airplane,2026-01-08 16:04:00-05:00,45.0,0.7513205409049988,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160400.WAV,3.4
+Airplane,2026-01-08 16:41:00-05:00,33.0,0.6689386367797852,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164100.WAV,3.2
+Airplane,2026-01-08 16:41:00-05:00,51.0,0.7654007077217102,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164100.WAV,3.2
+American Crow,2026-01-09 07:48:00-05:00,36.0,0.7865964770317078,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_074800.WAV,3.2
+American Crow,2026-01-09 07:48:00-05:00,39.0,0.7010797262191772,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_074800.WAV,3.2
+Red-shouldered Hawk,2026-01-07 08:10:00-05:00,6.0,0.7323399782180786,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_131000.WAV,3.4
+Airplane,2026-01-07 08:10:00-05:00,48.0,0.9267459511756897,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_131000.WAV,3.4
+Golden-crowned Kinglet,2026-01-08 07:50:00-05:00,0.0,0.903907835483551,33.26,/Users/patrick/Desktop/creation/birds/recordings/20260108_125000.WAV,3.2
+Dark-eyed Junco,2026-01-08 08:08:00-05:00,42.0,0.9324628114700317,35.06,/Users/patrick/Desktop/creation/birds/recordings/20260108_130800.WAV,3.2
+Dark-eyed Junco,2026-01-08 08:08:00-05:00,48.0,0.6975526809692383,35.06,/Users/patrick/Desktop/creation/birds/recordings/20260108_130800.WAV,3.2
+Golden-crowned Kinglet,2026-01-08 07:52:00-05:00,0.0,0.8117785453796387,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_125200.WAV,3.2
+Golden-crowned Kinglet,2026-01-08 07:52:00-05:00,9.0,0.7450801134109497,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_125200.WAV,3.2
+Airplane,2026-01-07 08:12:00-05:00,0.0,0.7785182595252991,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_131200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:12:00-05:00,3.0,0.7954226732254028,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_131200.WAV,3.3
+Airplane,2026-01-07 08:12:00-05:00,18.0,0.9054230451583862,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_131200.WAV,3.3
+Green-winged Teal,2026-01-09 08:24:00-05:00,6.0,0.7404935359954834,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_082400.WAV,3.2
+White-throated Sparrow,2026-01-09 16:57:00-05:00,42.0,0.650454044342041,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165700.WAV,3.0
+White-throated Sparrow,2026-01-09 16:57:00-05:00,45.0,0.7611992359161377,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165700.WAV,3.0
+Airplane,2026-01-09 16:12:00-05:00,36.0,0.9193194508552551,51.620000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260109_161200.WAV,3.1
+Airplane,2026-01-09 16:12:00-05:00,42.0,0.8436626195907593,51.620000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260109_161200.WAV,3.1
+Airplane,2026-01-07 16:01:00-05:00,0.0,0.8000290393829346,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,3.0,0.9155004620552063,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,6.0,0.8663762211799622,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,9.0,0.9192988276481628,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,12.0,0.8897062540054321,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,18.0,0.8223142027854919,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,27.0,0.8922736644744873,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+Airplane,2026-01-07 16:01:00-05:00,33.0,0.8929708003997803,60.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260107_210100.WAV,3.8
+American Crow,2026-01-09 08:19:00-05:00,0.0,0.8948158621788025,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,6.0,0.7824498414993286,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,9.0,0.9523026943206787,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,12.0,0.9514275193214417,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,21.0,0.7538372874259949,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,27.0,0.9027660489082336,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,30.0,0.9361303448677063,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,39.0,0.9131308197975159,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,42.0,0.9372878074645996,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+American Crow,2026-01-09 08:19:00-05:00,51.0,0.8109620809555054,43.879999999999995,/Users/patrick/Desktop/creation/birds/recordings/20260109_081900.WAV,3.1
+Carolina Wren,2026-01-09 07:32:00-05:00,18.0,0.7627149820327759,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073200.WAV,3.3
+Carolina Wren,2026-01-09 07:32:00-05:00,21.0,0.7321175932884216,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073200.WAV,3.3
+Wood Thrush,2026-01-09 07:32:00-05:00,51.0,0.728083610534668,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_073200.WAV,3.3
+Airplane,2026-01-08 16:06:00-05:00,15.0,0.873249888420105,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_160600.WAV,3.3
+Airplane,2026-01-08 16:06:00-05:00,48.0,0.6894114017486572,60.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_160600.WAV,3.3
+Airplane,2026-01-08 16:43:00-05:00,3.0,0.7679088711738586,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Carolina Wren,2026-01-08 16:43:00-05:00,6.0,0.9947341680526733,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Carolina Wren,2026-01-08 16:43:00-05:00,15.0,0.9851013422012329,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Carolina Wren,2026-01-08 16:43:00-05:00,21.0,0.9611026644706726,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,21.0,0.8579996824264526,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,24.0,0.9641820192337036,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,27.0,0.9262508153915405,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,30.0,0.8364781141281128,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Carolina Wren,2026-01-08 16:43:00-05:00,33.0,0.7041628956794739,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,36.0,0.8377565741539001,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+American Robin,2026-01-08 16:43:00-05:00,39.0,0.7941381335258484,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,42.0,0.6722678542137146,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+Airplane,2026-01-08 16:43:00-05:00,51.0,0.9011638164520264,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164300.WAV,3.2
+White-breasted Nuthatch,2026-01-07 16:25:00-05:00,39.0,0.9241030216217041,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_212500.WAV,3.4
+White-breasted Nuthatch,2026-01-07 16:25:00-05:00,51.0,0.9706897735595703,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260107_212500.WAV,3.4
+Airplane,2026-01-07 07:53:00-05:00,21.0,0.8443509340286255,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_125300.WAV,3.5
+Airplane,2026-01-07 07:53:00-05:00,24.0,0.684402346611023,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_125300.WAV,3.5
+Carolina Wren,2026-01-07 07:53:00-05:00,48.0,0.9473158717155457,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_125300.WAV,3.5
+Carolina Wren,2026-01-07 07:53:00-05:00,51.0,0.9792698621749878,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_125300.WAV,3.5
+Airplane,2026-01-09 17:16:00-05:00,18.0,0.7657259106636047,51.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_171600.WAV,3.2
+Airplane,2026-01-09 17:16:00-05:00,21.0,0.6610473990440369,51.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_171600.WAV,3.2
+Carolina Wren,2026-01-09 07:16:00-05:00,9.0,0.7867027521133423,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071600.WAV,3.7
+Carolina Wren,2026-01-09 07:16:00-05:00,21.0,0.8354548811912537,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071600.WAV,3.7
+Carolina Wren,2026-01-09 07:16:00-05:00,24.0,0.7973102331161499,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071600.WAV,3.7
+Carolina Wren,2026-01-09 07:16:00-05:00,33.0,0.8918718695640564,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071600.WAV,3.7
+American Crow,2026-01-09 08:00:00-05:00,6.0,0.7078207731246948,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_080000.WAV,3.1
+Downy Woodpecker,2026-01-09 08:00:00-05:00,15.0,0.878189206123352,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_080000.WAV,3.1
+Downy Woodpecker,2026-01-09 08:00:00-05:00,27.0,0.7904308438301086,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_080000.WAV,3.1
+American Crow,2026-01-09 08:00:00-05:00,36.0,0.668332040309906,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_080000.WAV,3.1
+Airplane,2026-01-07 16:18:00-05:00,45.0,0.9025165438652039,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211800.WAV,3.4
+Airplane,2026-01-08 16:56:00-05:00,6.0,0.9302438497543335,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165600.WAV,3.2
+Airplane,2026-01-08 16:56:00-05:00,15.0,0.96177077293396,56.120000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260108_165600.WAV,3.2
+Red-bellied Woodpecker,2026-01-08 16:13:00-05:00,18.0,0.6579228043556213,60.44,/Users/patrick/Desktop/creation/birds/recordings/20260108_161300.WAV,3.2
+Blue Jay,2026-01-09 07:27:00-05:00,0.0,0.6574024558067322,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_072700.WAV,3.1
+Blue Jay,2026-01-09 07:27:00-05:00,12.0,0.7940205335617065,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_072700.WAV,3.1
+Airplane,2026-01-07 08:07:00-05:00,3.0,0.8650945425033569,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_130700.WAV,3.3
+Airplane,2026-01-07 08:07:00-05:00,6.0,0.6583915948867798,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_130700.WAV,3.3
+Airplane,2026-01-07 08:07:00-05:00,12.0,0.960286557674408,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_130700.WAV,3.3
+Airplane,2026-01-07 08:07:00-05:00,15.0,0.7922260761260986,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_130700.WAV,3.3
+Red-shouldered Hawk,2026-01-07 08:07:00-05:00,24.0,0.7508869171142578,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_130700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,0.0,0.7875105738639832,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,3.0,0.973709762096405,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,6.0,0.8260265588760376,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,12.0,0.9319058060646057,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,15.0,0.954938530921936,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,18.0,0.9698531627655029,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,21.0,0.9754329323768616,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,24.0,0.8519413471221924,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,27.0,0.9197412133216858,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,30.0,0.9421843886375427,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,33.0,0.8586314916610718,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,36.0,0.906353235244751,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,39.0,0.9258039593696594,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,42.0,0.964415431022644,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,45.0,0.8808500170707703,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:23:00-05:00,51.0,0.9277603030204773,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132300.WAV,3.3
+American Crow,2026-01-09 08:15:00-05:00,15.0,0.7855474352836609,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081500.WAV,3.2
+American Crow,2026-01-09 08:15:00-05:00,33.0,0.6767470836639404,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081500.WAV,3.2
+Tufted Titmouse,2026-01-09 08:15:00-05:00,36.0,0.8095047473907471,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081500.WAV,3.2
+American Crow,2026-01-09 08:15:00-05:00,48.0,0.6873160004615784,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081500.WAV,3.2
+White-breasted Nuthatch,2026-01-07 16:30:00-05:00,3.0,0.8433300852775574,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_213000.WAV,3.4
+White-breasted Nuthatch,2026-01-07 16:30:00-05:00,6.0,0.9416634440422058,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_213000.WAV,3.4
+White-breasted Nuthatch,2026-01-07 16:30:00-05:00,9.0,0.7182137370109558,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_213000.WAV,3.4
+White-breasted Nuthatch,2026-01-07 16:30:00-05:00,21.0,0.9194859266281128,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_213000.WAV,3.4
+Downy Woodpecker,2026-01-09 07:44:00-05:00,27.0,0.780329704284668,41.36,/Users/patrick/Desktop/creation/birds/recordings/20260109_074400.WAV,3.1
+Golden-crowned Kinglet,2026-01-08 08:04:00-05:00,18.0,0.73282790184021,34.52,/Users/patrick/Desktop/creation/birds/recordings/20260108_130400.WAV,3.2
+Airplane,2026-01-07 07:44:00-05:00,0.0,0.6957494020462036,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124400.WAV,3.5
+Airplane,2026-01-07 07:44:00-05:00,3.0,0.9271489381790161,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124400.WAV,3.5
+Airplane,2026-01-07 07:44:00-05:00,6.0,0.8331758975982666,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124400.WAV,3.5
+Airplane,2026-01-07 07:44:00-05:00,9.0,0.7418943643569946,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124400.WAV,3.5
+Pileated Woodpecker,2026-01-07 07:44:00-05:00,33.0,0.9829373955726624,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124400.WAV,3.5
+Pileated Woodpecker,2026-01-07 07:44:00-05:00,36.0,0.9673352241516113,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124400.WAV,3.5
+Airplane,2026-01-07 08:21:00-05:00,21.0,0.6556753516197205,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132100.WAV,3.3
+American Crow,2026-01-09 08:17:00-05:00,0.0,0.9799652099609375,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,6.0,0.807352602481842,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,9.0,0.9447612762451172,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,18.0,0.8685935139656067,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,27.0,0.983814001083374,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,30.0,0.8757430911064148,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,33.0,0.9164742827415466,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,39.0,0.9001879096031189,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,45.0,0.8351559638977051,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,48.0,0.9472362995147705,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+American Crow,2026-01-09 08:17:00-05:00,51.0,0.8919001221656799,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_081700.WAV,3.2
+Carolina Wren,2026-01-09 07:18:00-05:00,9.0,0.7559443116188049,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_071800.WAV,3.4
+Carolina Wren,2026-01-09 07:18:00-05:00,15.0,0.817295253276825,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_071800.WAV,3.4
+Airplane,2026-01-07 08:05:00-05:00,18.0,0.7799824476242065,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_130500.WAV,3.3
+Airplane,2026-01-07 08:05:00-05:00,24.0,0.9379709362983704,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_130500.WAV,3.3
+Airplane,2026-01-07 08:05:00-05:00,27.0,0.7870597243309021,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_130500.WAV,3.3
+Airplane,2026-01-07 08:05:00-05:00,30.0,0.8994119167327881,35.6,/Users/patrick/Desktop/creation/birds/recordings/20260107_130500.WAV,3.3
+Tufted Titmouse,2026-01-08 07:45:00-05:00,9.0,0.9379099011421204,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_124500.WAV,3.3
+Downy Woodpecker,2026-01-08 07:45:00-05:00,36.0,0.696449339389801,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_124500.WAV,3.3
+Airplane,2026-01-08 16:11:00-05:00,18.0,0.838297963142395,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161100.WAV,3.2
+Airplane,2026-01-08 16:11:00-05:00,24.0,0.7346409559249878,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161100.WAV,3.2
+Airplane,2026-01-08 16:11:00-05:00,33.0,0.6669644117355347,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161100.WAV,3.2
+Carolina Wren,2026-01-09 07:25:00-05:00,18.0,0.6733061075210571,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_072500.WAV,3.2
+Carolina Wren,2026-01-09 07:25:00-05:00,51.0,0.7609309554100037,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_072500.WAV,3.2
+Airplane,2026-01-09 16:38:00-05:00,18.0,0.9582589268684387,51.26,/Users/patrick/Desktop/creation/birds/recordings/20260109_163800.WAV,3.2
+Airplane,2026-01-09 16:38:00-05:00,30.0,0.9204690456390381,51.26,/Users/patrick/Desktop/creation/birds/recordings/20260109_163800.WAV,3.2
+Airplane,2026-01-07 16:16:00-05:00,3.0,0.6811553239822388,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_211600.WAV,3.4
+Airplane,2026-01-07 16:16:00-05:00,12.0,0.6775470972061157,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_211600.WAV,3.4
+Airplane,2026-01-07 16:53:00-05:00,18.0,0.8294915556907654,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215300.WAV,3.2
+Airplane,2026-01-07 16:53:00-05:00,36.0,0.7779721021652222,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215300.WAV,3.2
+Airplane,2026-01-07 16:53:00-05:00,39.0,0.7758496403694153,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215300.WAV,3.2
+Airplane,2026-01-07 16:53:00-05:00,48.0,0.9428932070732117,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215300.WAV,3.2
+House Finch,2026-01-07 16:53:00-05:00,51.0,0.9573787450790405,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215300.WAV,3.2
+Black-capped Chickadee,2026-01-08 08:20:00-05:00,0.0,0.6703683137893677,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260108_132000.WAV,3.3
+Carolina Chickadee,2026-01-08 08:20:00-05:00,3.0,0.8194466233253479,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260108_132000.WAV,3.3
+Black-capped Chickadee,2026-01-08 08:20:00-05:00,51.0,0.7833772897720337,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260108_132000.WAV,3.3
+Airplane,2026-01-08 16:28:00-05:00,9.0,0.773442268371582,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_162800.WAV,3.2
+Airplane,2026-01-08 16:28:00-05:00,18.0,0.9257116317749023,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_162800.WAV,3.2
+Airplane,2026-01-08 16:28:00-05:00,33.0,0.8404237627983093,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_162800.WAV,3.2
+Airplane,2026-01-08 16:28:00-05:00,39.0,0.7949328422546387,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_162800.WAV,3.2
+Airplane,2026-01-08 16:28:00-05:00,51.0,0.7576549649238586,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_162800.WAV,3.2
+American Crow,2026-01-09 07:59:00-05:00,3.0,0.7425965666770935,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075900.WAV,3.2
+Brown Creeper,2026-01-09 07:59:00-05:00,15.0,0.6992456912994385,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075900.WAV,3.2
+Blue Jay,2026-01-09 07:59:00-05:00,45.0,0.7446717619895935,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_075900.WAV,3.2
+Airplane,2026-01-07 08:01:00-05:00,42.0,0.7245981097221375,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_130100.WAV,3.4
+Airplane,2026-01-07 17:13:00-05:00,27.0,0.7570281624794006,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_221300.WAV,3.2
+Airplane,2026-01-07 17:13:00-05:00,30.0,0.9269781112670898,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_221300.WAV,3.2
+White-throated Sparrow,2026-01-07 17:13:00-05:00,42.0,0.9031774401664734,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_221300.WAV,3.2
+Airplane,2026-01-08 16:15:00-05:00,3.0,0.9172954559326172,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_161500.WAV,3.2
+Airplane,2026-01-08 16:15:00-05:00,12.0,0.6725025773048401,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_161500.WAV,3.2
+Airplane,2026-01-08 16:15:00-05:00,18.0,0.8910021781921387,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_161500.WAV,3.2
+Airplane,2026-01-08 16:15:00-05:00,51.0,0.8968415260314941,58.64,/Users/patrick/Desktop/creation/birds/recordings/20260108_161500.WAV,3.2
+Black-capped Chickadee,2026-01-09 07:21:00-05:00,9.0,0.6584997177124023,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_072100.WAV,3.3
+American Crow,2026-01-08 07:39:00-05:00,48.0,0.8617367148399353,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_123900.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,27.0,0.9339914917945862,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,30.0,0.857032835483551,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,33.0,0.9267358183860779,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,36.0,0.9850797057151794,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,42.0,0.9867511987686157,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,45.0,0.9835479855537415,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,48.0,0.8188620805740356,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Airplane,2026-01-07 16:36:00-05:00,51.0,0.9513891935348511,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_213600.WAV,3.3
+Northern Cardinal,2026-01-09 07:40:00-05:00,18.0,0.6568717360496521,41.36,/Users/patrick/Desktop/creation/birds/recordings/20260109_074000.WAV,3.2
+Airplane,2026-01-09 07:40:00-05:00,27.0,0.8370989561080933,41.36,/Users/patrick/Desktop/creation/birds/recordings/20260109_074000.WAV,3.2
+Airplane,2026-01-09 07:40:00-05:00,30.0,0.7210489511489868,41.36,/Users/patrick/Desktop/creation/birds/recordings/20260109_074000.WAV,3.2
+Airplane,2026-01-09 07:40:00-05:00,45.0,0.9546993374824524,41.36,/Users/patrick/Desktop/creation/birds/recordings/20260109_074000.WAV,3.2
+Airplane,2026-01-09 17:05:00-05:00,36.0,0.7346965670585632,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_170500.WAV,3.0
+Downy Woodpecker,2026-01-07 08:25:00-05:00,0.0,0.9579142332077026,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,3.0,0.9838893413543701,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,6.0,0.9776172637939453,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,12.0,0.8562836647033691,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,15.0,0.6883823275566101,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,24.0,0.9484383463859558,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,27.0,0.9920392036437988,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,30.0,0.9616663455963135,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,33.0,0.9788393378257751,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,36.0,0.8721152544021606,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,42.0,0.9195712208747864,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,45.0,0.8540565371513367,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,48.0,0.811131477355957,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Downy Woodpecker,2026-01-07 08:25:00-05:00,51.0,0.7326584458351135,37.04,/Users/patrick/Desktop/creation/birds/recordings/20260107_132500.WAV,3.3
+Tufted Titmouse,2026-01-09 08:13:00-05:00,18.0,0.9039819240570068,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081300.WAV,3.2
+Tufted Titmouse,2026-01-09 08:13:00-05:00,21.0,0.8076328635215759,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081300.WAV,3.2
+American Crow,2026-01-09 08:13:00-05:00,33.0,0.9492485523223877,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081300.WAV,3.2
+Red-breasted Nuthatch,2026-01-09 08:13:00-05:00,36.0,0.8670804500579834,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081300.WAV,3.2
+American Crow,2026-01-09 08:13:00-05:00,48.0,0.8610198497772217,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081300.WAV,3.2
+Airplane,2026-01-08 16:49:00-05:00,24.0,0.6870194673538208,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164900.WAV,3.2
+Airplane,2026-01-08 16:49:00-05:00,30.0,0.8906561732292175,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164900.WAV,3.2
+Airplane,2026-01-08 16:49:00-05:00,33.0,0.7426328659057617,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164900.WAV,3.2
+Airplane,2026-01-08 16:49:00-05:00,42.0,0.9133113622665405,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_164900.WAV,3.2
+Downy Woodpecker,2026-01-07 08:27:00-05:00,0.0,0.7392332553863525,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,3.0,0.9809560179710388,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,6.0,0.9659033417701721,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,12.0,0.8357198238372803,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,15.0,0.8428742289543152,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,18.0,0.9220349788665771,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,27.0,0.8953519463539124,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Downy Woodpecker,2026-01-07 08:27:00-05:00,42.0,0.6585579514503479,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+Airplane,2026-01-07 08:27:00-05:00,45.0,0.6600903868675232,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132700.WAV,3.3
+American Crow,2026-01-09 08:11:00-05:00,12.0,0.793357789516449,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081100.WAV,3.1
+American Crow,2026-01-09 08:11:00-05:00,18.0,0.7384883165359497,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081100.WAV,3.1
+American Crow,2026-01-09 08:11:00-05:00,21.0,0.9665154814720154,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081100.WAV,3.1
+American Crow,2026-01-09 08:11:00-05:00,36.0,0.650571882724762,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081100.WAV,3.1
+American Crow,2026-01-09 08:11:00-05:00,48.0,0.7977688312530518,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081100.WAV,3.1
+Airplane,2026-01-07 07:42:00-05:00,9.0,0.9326305389404297,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124200.WAV,3.5
+Airplane,2026-01-07 07:42:00-05:00,12.0,0.7276699542999268,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124200.WAV,3.5
+Airplane,2026-01-07 07:42:00-05:00,15.0,0.997769832611084,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124200.WAV,3.5
+Airplane,2026-01-07 07:42:00-05:00,21.0,0.9246892333030701,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124200.WAV,3.5
+Airplane,2026-01-07 07:42:00-05:00,24.0,0.8067257404327393,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124200.WAV,3.5
+White-breasted Nuthatch,2026-01-09 07:42:00-05:00,9.0,0.8710244297981262,41.9,/Users/patrick/Desktop/creation/birds/recordings/20260109_074200.WAV,3.2
+Airplane,2026-01-08 16:33:00-05:00,45.0,0.9154215455055237,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260108_163300.WAV,3.2
+Airplane,2026-01-08 16:33:00-05:00,48.0,0.730027437210083,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260108_163300.WAV,3.2
+Downy Woodpecker,2026-01-08 08:26:00-05:00,36.0,0.9857540130615234,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260108_132600.WAV,3.2
+House Finch,2026-01-08 08:26:00-05:00,51.0,0.9252446889877319,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260108_132600.WAV,3.2
+American Crow,2026-01-09 08:08:00-05:00,9.0,0.701919436454773,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,12.0,0.8651509284973145,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,15.0,0.6520221829414368,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,21.0,0.9531019926071167,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,24.0,0.9333797097206116,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,27.0,0.976796567440033,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,30.0,0.8003866076469421,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,36.0,0.9118542075157166,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,45.0,0.9123818278312683,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+American Crow,2026-01-09 08:08:00-05:00,48.0,0.8665269017219543,43.34,/Users/patrick/Desktop/creation/birds/recordings/20260109_080800.WAV,3.1
+Airplane,2026-01-08 16:17:00-05:00,3.0,0.7632404565811157,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161700.WAV,3.2
+Airplane,2026-01-08 16:17:00-05:00,6.0,0.9196199774742126,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161700.WAV,3.2
+Airplane,2026-01-08 16:17:00-05:00,9.0,0.720305860042572,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161700.WAV,3.2
+Airplane,2026-01-08 16:17:00-05:00,15.0,0.874281644821167,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161700.WAV,3.2
+Downy Woodpecker,2026-01-08 07:43:00-05:00,9.0,0.876086413860321,34.52,/Users/patrick/Desktop/creation/birds/recordings/20260108_124300.WAV,3.3
+Downy Woodpecker,2026-01-07 08:20:00-05:00,12.0,0.8307332396507263,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132000.WAV,3.4
+Downy Woodpecker,2026-01-07 08:20:00-05:00,15.0,0.9398019313812256,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132000.WAV,3.4
+Downy Woodpecker,2026-01-07 08:20:00-05:00,21.0,0.9752231240272522,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132000.WAV,3.4
+American Crow,2026-01-09 08:16:00-05:00,0.0,0.9284888505935669,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,3.0,0.9641055464744568,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,12.0,0.8442229628562927,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,15.0,0.7121171951293945,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,18.0,0.821987509727478,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,21.0,0.8973913788795471,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,27.0,0.6743581295013428,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,33.0,0.8372033834457397,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,39.0,0.9761596918106079,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+American Crow,2026-01-09 08:16:00-05:00,48.0,0.9672889113426208,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081600.WAV,3.2
+Airplane,2026-01-08 16:09:00-05:00,27.0,0.7307441234588623,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_160900.WAV,3.2
+Airplane,2026-01-09 16:20:00-05:00,15.0,0.9467370510101318,51.26,/Users/patrick/Desktop/creation/birds/recordings/20260109_162000.WAV,3.2
+Airplane,2026-01-09 16:20:00-05:00,24.0,0.9354246854782104,51.26,/Users/patrick/Desktop/creation/birds/recordings/20260109_162000.WAV,3.2
+Airplane,2026-01-09 16:20:00-05:00,27.0,0.7135907411575317,51.26,/Users/patrick/Desktop/creation/birds/recordings/20260109_162000.WAV,3.2
+White-throated Sparrow,2026-01-09 16:58:00-05:00,12.0,0.7112261056900024,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165800.WAV,3.2
+White-throated Sparrow,2026-01-09 16:58:00-05:00,15.0,0.845416247844696,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165800.WAV,3.2
+White-throated Sparrow,2026-01-09 16:58:00-05:00,21.0,0.6962317824363708,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165800.WAV,3.2
+White-throated Sparrow,2026-01-09 16:58:00-05:00,24.0,0.8024277687072754,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165800.WAV,3.2
+White-throated Sparrow,2026-01-09 16:58:00-05:00,27.0,0.6862707734107971,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_165800.WAV,3.2
+American Crow,2026-01-07 07:24:00-05:00,42.0,0.7627124190330505,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_122400.WAV,3.6
+Airplane,2026-01-07 16:17:00-05:00,18.0,0.7476247549057007,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211700.WAV,3.4
+Airplane,2026-01-07 16:17:00-05:00,27.0,0.9694476127624512,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211700.WAV,3.4
+Airplane,2026-01-07 16:17:00-05:00,30.0,0.7859155535697937,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211700.WAV,3.4
+Airplane,2026-01-07 16:17:00-05:00,33.0,0.9440072774887085,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211700.WAV,3.4
+Airplane,2026-01-07 16:17:00-05:00,39.0,0.7561716437339783,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211700.WAV,3.4
+Airplane,2026-01-07 16:17:00-05:00,42.0,0.9175747632980347,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211700.WAV,3.4
+Blue Jay,2026-01-09 07:24:00-05:00,3.0,0.6594851016998291,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_072400.WAV,3.2
+Blue Jay,2026-01-09 07:24:00-05:00,6.0,0.7198978662490845,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_072400.WAV,3.2
+Airplane,2026-01-08 16:10:00-05:00,24.0,0.9380490779876709,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161000.WAV,3.2
+Airplane,2026-01-08 16:55:00-05:00,30.0,0.8494323492050171,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_165500.WAV,3.1
+Airplane,2026-01-08 16:55:00-05:00,39.0,0.9363069534301758,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_165500.WAV,3.1
+Airplane,2026-01-08 16:55:00-05:00,45.0,0.6731364727020264,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_165500.WAV,3.1
+Airplane,2026-01-08 16:55:00-05:00,48.0,0.8562984466552734,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_165500.WAV,3.1
+Airplane,2026-01-08 16:55:00-05:00,51.0,0.8184507489204407,57.56,/Users/patrick/Desktop/creation/birds/recordings/20260108_165500.WAV,3.1
+American Crow,2026-01-09 07:19:00-05:00,42.0,0.6766929626464844,40.46,/Users/patrick/Desktop/creation/birds/recordings/20260109_071900.WAV,3.4
+American Crow,2026-01-08 07:44:00-05:00,45.0,0.719436526298523,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_124400.WAV,3.3
+Tufted Titmouse,2026-01-07 08:06:00-05:00,39.0,0.6632174253463745,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130600.WAV,3.4
+Airplane,2026-01-07 17:14:00-05:00,9.0,0.9258434176445007,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260107_221400.WAV,3.2
+Airplane,2026-01-07 16:15:00-05:00,27.0,0.7880670428276062,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211500.WAV,3.4
+Airplane,2026-01-07 16:15:00-05:00,30.0,0.6798599362373352,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211500.WAV,3.4
+Airplane,2026-01-07 16:15:00-05:00,39.0,0.6817147731781006,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_211500.WAV,3.4
+Carolina Wren,2026-01-09 07:26:00-05:00,12.0,0.8205145597457886,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_072600.WAV,3.2
+Carolina Wren,2026-01-09 07:26:00-05:00,21.0,0.8478282690048218,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_072600.WAV,3.2
+Carolina Wren,2026-01-09 07:26:00-05:00,27.0,0.6837027668952942,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_072600.WAV,3.2
+Carolina Wren,2026-01-09 07:26:00-05:00,36.0,0.8903522491455078,41.0,/Users/patrick/Desktop/creation/birds/recordings/20260109_072600.WAV,3.2
+Airplane,2026-01-08 16:12:00-05:00,3.0,0.8910674452781677,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_161200.WAV,3.2
+Airplane,2026-01-08 16:12:00-05:00,18.0,0.676521897315979,59.36,/Users/patrick/Desktop/creation/birds/recordings/20260108_161200.WAV,3.2
+Airplane,2026-01-07 07:47:00-05:00,12.0,0.8945520520210266,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124700.WAV,3.5
+Airplane,2026-01-07 07:47:00-05:00,18.0,0.9539055228233337,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124700.WAV,3.5
+Airplane,2026-01-07 07:47:00-05:00,27.0,0.9615569114685059,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124700.WAV,3.5
+Airplane,2026-01-07 07:47:00-05:00,30.0,0.9317748546600342,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_124700.WAV,3.5
+American Pipit,2026-01-09 07:47:00-05:00,15.0,0.8325953483581543,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_074700.WAV,3.2
+Downy Woodpecker,2026-01-07 08:22:00-05:00,6.0,0.8729122281074524,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,9.0,0.9961732029914856,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,12.0,0.9660626649856567,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,15.0,0.8675563335418701,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,18.0,0.9883530735969543,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,21.0,0.7074447274208069,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,27.0,0.9709822535514832,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,30.0,0.9182948470115662,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,33.0,0.8424375653266907,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,36.0,0.8181334137916565,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,39.0,0.8854312300682068,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,42.0,0.9815347194671631,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,45.0,0.8919090628623962,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,48.0,0.98475581407547,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Downy Woodpecker,2026-01-07 08:22:00-05:00,51.0,0.9425603747367859,36.68,/Users/patrick/Desktop/creation/birds/recordings/20260107_132200.WAV,3.3
+Airplane,2026-01-07 16:49:00-05:00,6.0,0.8917365074157715,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,9.0,0.9395519495010376,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,12.0,0.7798693180084229,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,15.0,0.9784931540489197,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,18.0,0.9903301000595093,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,21.0,0.9516616463661194,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,24.0,0.7080991268157959,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,27.0,0.7700995802879333,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,30.0,0.8821717500686646,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,33.0,0.9006009697914124,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Airplane,2026-01-07 16:49:00-05:00,36.0,0.9396526217460632,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_214900.WAV,3.2
+Downy Woodpecker,2026-01-09 07:43:00-05:00,0.0,0.7654564380645752,42.08,/Users/patrick/Desktop/creation/birds/recordings/20260109_074300.WAV,3.1
+Airplane,2026-01-09 17:06:00-05:00,0.0,0.8790642023086548,51.620000000000005,/Users/patrick/Desktop/creation/birds/recordings/20260109_170600.WAV,3.2
+Airplane,2026-01-07 07:43:00-05:00,42.0,0.6916399598121643,34.7,/Users/patrick/Desktop/creation/birds/recordings/20260107_124300.WAV,3.5
+Northern Cardinal,2026-01-07 16:08:00-05:00,6.0,0.7182691097259521,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210800.WAV,3.5
+Northern Cardinal,2026-01-07 16:08:00-05:00,9.0,0.8924686312675476,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210800.WAV,3.5
+Northern Cardinal,2026-01-07 16:08:00-05:00,12.0,0.8090299367904663,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210800.WAV,3.5
+Northern Cardinal,2026-01-07 16:08:00-05:00,15.0,0.9055229425430298,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210800.WAV,3.5
+Northern Cardinal,2026-01-07 16:08:00-05:00,18.0,0.9178181290626526,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210800.WAV,3.5
+White-throated Sparrow,2026-01-07 16:08:00-05:00,33.0,0.738025426864624,60.08,/Users/patrick/Desktop/creation/birds/recordings/20260107_210800.WAV,3.5
+Downy Woodpecker,2026-01-07 08:26:00-05:00,0.0,0.9792497754096985,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,3.0,0.9525066614151001,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,6.0,0.9592538475990295,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,9.0,0.991868257522583,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,12.0,0.9013668298721313,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,15.0,0.9802129864692688,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,18.0,0.9096959233283997,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,21.0,0.9085279107093811,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,24.0,0.8783999681472778,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,27.0,0.6991531848907471,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,30.0,0.9538352489471436,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,33.0,0.9847827553749084,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,36.0,0.774131715297699,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,39.0,0.9571295976638794,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,45.0,0.9773434400558472,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+Downy Woodpecker,2026-01-07 08:26:00-05:00,48.0,0.9437808394432068,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_132600.WAV,3.3
+American Crow,2026-01-09 08:10:00-05:00,6.0,0.7506402730941772,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081000.WAV,3.2
+American Crow,2026-01-09 08:10:00-05:00,12.0,0.7690555453300476,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081000.WAV,3.2
+Carolina Wren,2026-01-09 08:10:00-05:00,21.0,0.7836906313896179,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081000.WAV,3.2
+Carolina Wren,2026-01-09 08:10:00-05:00,30.0,0.8260219693183899,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081000.WAV,3.2
+American Crow,2026-01-09 08:10:00-05:00,39.0,0.9794148802757263,42.8,/Users/patrick/Desktop/creation/birds/recordings/20260109_081000.WAV,3.2
+American Crow,2026-01-09 08:09:00-05:00,0.0,0.9475637078285217,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,3.0,0.8342409133911133,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,6.0,0.8525890111923218,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+Carolina Wren,2026-01-09 08:09:00-05:00,9.0,0.9827501773834229,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,12.0,0.9890022277832031,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+Carolina Wren,2026-01-09 08:09:00-05:00,15.0,0.8332937955856323,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,18.0,0.9076456427574158,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+Carolina Wren,2026-01-09 08:09:00-05:00,21.0,0.968622624874115,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,27.0,0.9473192691802979,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,30.0,0.8284008502960205,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+Carolina Wren,2026-01-09 08:09:00-05:00,39.0,0.8914104104042053,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+Carolina Wren,2026-01-09 08:09:00-05:00,42.0,0.809646487236023,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,45.0,0.8087557554244995,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,48.0,0.7139443755149841,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+American Crow,2026-01-09 08:09:00-05:00,51.0,0.9534538388252258,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_080900.WAV,3.0
+Red-breasted Nuthatch,2026-01-09 07:22:00-05:00,27.0,0.6742740273475647,40.64,/Users/patrick/Desktop/creation/birds/recordings/20260109_072200.WAV,3.3
+Airplane,2026-01-08 16:16:00-05:00,6.0,0.9531669616699219,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Airplane,2026-01-08 16:16:00-05:00,12.0,0.6983965039253235,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Airplane,2026-01-08 16:16:00-05:00,15.0,0.7797305583953857,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Airplane,2026-01-08 16:16:00-05:00,39.0,0.6789714694023132,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Airplane,2026-01-08 16:16:00-05:00,42.0,0.9462629556655884,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Airplane,2026-01-08 16:16:00-05:00,48.0,0.8942448496818542,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Airplane,2026-01-08 16:16:00-05:00,51.0,0.7539648413658142,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161600.WAV,3.2
+Ruddy Turnstone,2026-01-07 07:22:00-05:00,42.0,0.6669273376464844,35.78,/Users/patrick/Desktop/creation/birds/recordings/20260107_122200.WAV,3.7
+Airplane,2026-01-07 16:54:00-05:00,0.0,0.7051249742507935,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215400.WAV,3.2
+Dark-eyed Junco,2026-01-07 16:11:00-05:00,24.0,0.953326404094696,61.34,/Users/patrick/Desktop/creation/birds/recordings/20260107_211100.WAV,3.5
+Airplane,2026-01-07 16:11:00-05:00,27.0,0.8207590579986572,61.34,/Users/patrick/Desktop/creation/birds/recordings/20260107_211100.WAV,3.5
+Airplane,2026-01-07 16:11:00-05:00,30.0,0.9702897667884827,61.34,/Users/patrick/Desktop/creation/birds/recordings/20260107_211100.WAV,3.5
+Airplane,2026-01-07 16:11:00-05:00,39.0,0.7578691840171814,61.34,/Users/patrick/Desktop/creation/birds/recordings/20260107_211100.WAV,3.5
+Airplane,2026-01-07 17:10:00-05:00,15.0,0.7262059450149536,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_221000.WAV,3.2
+Airplane,2026-01-07 17:10:00-05:00,21.0,0.7080444693565369,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_221000.WAV,3.2
+Airplane,2026-01-07 17:10:00-05:00,30.0,0.687505304813385,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_221000.WAV,3.2
+Airplane,2026-01-07 17:10:00-05:00,36.0,0.7461869120597839,58.46,/Users/patrick/Desktop/creation/birds/recordings/20260107_221000.WAV,3.2
+Airplane,2026-01-08 16:14:00-05:00,18.0,0.6861310005187988,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_161400.WAV,3.2
+American Crow,2026-01-08 07:38:00-05:00,0.0,0.7012131810188293,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_123800.WAV,3.3
+American Crow,2026-01-08 07:38:00-05:00,6.0,0.777374804019928,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_123800.WAV,3.3
+American Crow,2026-01-08 07:38:00-05:00,24.0,0.8451701402664185,34.16,/Users/patrick/Desktop/creation/birds/recordings/20260108_123800.WAV,3.3
+Airplane,2026-01-07 16:56:00-05:00,6.0,0.9232657551765442,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215600.WAV,3.2
+Airplane,2026-01-07 16:56:00-05:00,12.0,0.8404846787452698,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215600.WAV,3.2
+Airplane,2026-01-07 16:56:00-05:00,45.0,0.8424412608146667,59.0,/Users/patrick/Desktop/creation/birds/recordings/20260107_215600.WAV,3.2
+Eastern Towhee,2026-01-09 16:45:00-05:00,6.0,0.9857695698738098,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_164500.WAV,3.2
+Eastern Towhee,2026-01-09 16:45:00-05:00,9.0,0.749055027961731,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_164500.WAV,3.2
+Eastern Towhee,2026-01-09 16:45:00-05:00,15.0,0.9494322538375854,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_164500.WAV,3.2
+Eastern Towhee,2026-01-09 16:45:00-05:00,24.0,0.9694570302963257,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_164500.WAV,3.2
+Eastern Towhee,2026-01-09 16:45:00-05:00,27.0,0.7661799788475037,52.16,/Users/patrick/Desktop/creation/birds/recordings/20260109_164500.WAV,3.2
+American Crow,2026-01-08 07:40:00-05:00,12.0,0.7091730237007141,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_124000.WAV,3.3
+American Crow,2026-01-08 07:40:00-05:00,39.0,0.7302281260490417,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_124000.WAV,3.3
+American Crow,2026-01-08 07:40:00-05:00,45.0,0.7538082003593445,33.8,/Users/patrick/Desktop/creation/birds/recordings/20260108_124000.WAV,3.3
+American Crow,2026-01-09 07:58:00-05:00,6.0,0.7039419412612915,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_075800.WAV,3.1
+American Crow,2026-01-09 07:58:00-05:00,12.0,0.8680038452148438,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_075800.WAV,3.1
+American Crow,2026-01-09 07:58:00-05:00,45.0,0.7851479053497314,42.44,/Users/patrick/Desktop/creation/birds/recordings/20260109_075800.WAV,3.1
+Airplane,2026-01-08 16:29:00-05:00,15.0,0.89900803565979,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_162900.WAV,3.2
+Airplane,2026-01-08 16:29:00-05:00,24.0,0.9136916995048523,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_162900.WAV,3.2
+Golden-crowned Kinglet,2026-01-08 16:29:00-05:00,24.0,0.7089584469795227,59.540000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260108_162900.WAV,3.2
+Airplane,2026-01-07 08:00:00-05:00,45.0,0.8516517281532288,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130000.WAV,3.4
+Airplane,2026-01-07 08:00:00-05:00,48.0,0.8293673396110535,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130000.WAV,3.4
+Airplane,2026-01-07 08:00:00-05:00,51.0,0.7890744805335999,36.14,/Users/patrick/Desktop/creation/birds/recordings/20260107_130000.WAV,3.4
+Downy Woodpecker,2026-01-07 08:24:00-05:00,0.0,0.90665602684021,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,6.0,0.9911376237869263,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,9.0,0.787474513053894,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,12.0,0.9656990766525269,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,15.0,0.9424532651901245,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,18.0,0.981844425201416,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,21.0,0.9451050758361816,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,24.0,0.9838189482688904,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,27.0,0.9829736948013306,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,30.0,0.9417059421539307,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,33.0,0.8003252148628235,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,36.0,0.9392592310905457,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,39.0,0.9776771664619446,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,42.0,0.9822818040847778,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,45.0,0.9700689315795898,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,48.0,0.9575446248054504,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+Downy Woodpecker,2026-01-07 08:24:00-05:00,51.0,0.978203296661377,37.22,/Users/patrick/Desktop/creation/birds/recordings/20260107_132400.WAV,3.3
+American Crow,2026-01-09 08:12:00-05:00,3.0,0.8363590240478516,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+American Crow,2026-01-09 08:12:00-05:00,9.0,0.6906217336654663,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+American Crow,2026-01-09 08:12:00-05:00,12.0,0.94386225938797,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+Tufted Titmouse,2026-01-09 08:12:00-05:00,27.0,0.8332639336585999,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+American Crow,2026-01-09 08:12:00-05:00,30.0,0.7141261100769043,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+American Crow,2026-01-09 08:12:00-05:00,33.0,0.8219326734542847,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+American Crow,2026-01-09 08:12:00-05:00,48.0,0.7469522356987,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+American Crow,2026-01-09 08:12:00-05:00,51.0,0.6991072297096252,42.980000000000004,/Users/patrick/Desktop/creation/birds/recordings/20260109_081200.WAV,3.2
+Airplane,2026-01-08 16:30:00-05:00,15.0,0.9256771802902222,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_163000.WAV,3.2
+Airplane,2026-01-08 16:30:00-05:00,18.0,0.8600435853004456,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_163000.WAV,3.2
+Airplane,2026-01-08 16:30:00-05:00,21.0,0.8532975912094116,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_163000.WAV,3.2
+Airplane,2026-01-08 16:30:00-05:00,24.0,0.7892357110977173,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_163000.WAV,3.2
+Airplane,2026-01-08 16:30:00-05:00,30.0,0.6831093430519104,57.92,/Users/patrick/Desktop/creation/birds/recordings/20260108_163000.WAV,3.2
+Airplane,2026-01-09 07:41:00-05:00,0.0,0.9233655333518982,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_074100.WAV,3.2
+Airplane,2026-01-09 07:41:00-05:00,12.0,0.8616660833358765,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_074100.WAV,3.2
+Airplane,2026-01-09 07:41:00-05:00,18.0,0.8117972016334534,41.54,/Users/patrick/Desktop/creation/birds/recordings/20260109_074100.WAV,3.2
+Airplane,2026-01-07 07:41:00-05:00,3.0,0.7208314538002014,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_124100.WAV,3.5
+Airplane,2026-01-07 07:41:00-05:00,6.0,0.7241768836975098,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_124100.WAV,3.5
+Airplane,2026-01-07 07:41:00-05:00,9.0,0.9376963376998901,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_124100.WAV,3.5
+Airplane,2026-01-07 07:41:00-05:00,18.0,0.9589194059371948,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_124100.WAV,3.5
+Airplane,2026-01-07 07:41:00-05:00,21.0,0.6863857507705688,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_124100.WAV,3.5
+Fish Crow,2026-01-07 07:41:00-05:00,27.0,0.7686689496040344,36.5,/Users/patrick/Desktop/creation/birds/recordings/20260107_124100.WAV,3.5
+Airplane,2026-01-07 16:37:00-05:00,0.0,0.8599637150764465,59.900000000000006,/Users/patrick/Desktop/creation/birds/recordings/20260107_213700.WAV,3.3
