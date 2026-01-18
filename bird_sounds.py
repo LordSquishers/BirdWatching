@@ -161,7 +161,7 @@ for path in audio_file_dict.keys():
     analysis_time = end_analysis_time - start_analysis_time
     total_analysis_time += analysis_time
 
-    est_time = (total_analysis_time.total_seconds() / actually_analyzed) * (num_files - actually_analyzed)
+    est_time = (total_analysis_time.total_seconds() / actually_analyzed) * (num_files - num_analyzed) # this is wrong
     est_time_minutes = int(est_time / 60)
     est_time_seconds = int(est_time % 60)
 

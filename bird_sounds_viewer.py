@@ -1,4 +1,6 @@
 from typing import Tuple, List
+
+import numpy as np
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
@@ -106,23 +108,35 @@ def fetch_weather_with_rain_intervals(
 LAT = 38.97
 LONG = -77.25
 
+MIN_DETECTIONS = 5
+START_DATE = pd.Timestamp("2026-01-10").tz_localize(tz=EASTERN_TZ)
+END_TIME = None
+
 PLOT_BIRD = True
+SPECIFIC_BIRD = None; "Carolina Chickadee"
+
 PLOT_TEMP = True
 PLOT_VOLTS = False
+
+SPECIAL_PLOT = True # there isnt enough data to get anything meaningful out of this
 
 # summary file
 audio_file_data = pd.read_csv("data/SUMMARY.csv", sep=',')
 
 # birds
 bird_data = pd.read_csv("data/bird_data.csv", sep=',', parse_dates=['Timestamp'])
+if SPECIFIC_BIRD is not None: bird_data = bird_data[bird_data["Bird_Species"] == SPECIFIC_BIRD] # filter to bird(s)
 
 # find total time elapsed between first and last recording
-start_time = min(bird_data["Timestamp"])
-end_time = max(bird_data["Timestamp"])
+start_time = min(bird_data.Timestamp) if START_DATE is None else START_DATE
+end_time = max(bird_data["Timestamp"]) if END_TIME is None else END_TIME
 
 # print(bird_data.to_string())
 if PLOT_BIRD:
 
+    # filter bird data by starting time
+    bird_data = bird_data[bird_data["Timestamp"] >= start_time]
+    bird_data = bird_data[bird_data["Timestamp"] <= end_time]
     # assisted by gpt because i got lazy trying to write plotting code.
     bird_data["Hour"] = bird_data["Timestamp"].dt.hour
     table = (
@@ -137,7 +151,8 @@ if PLOT_BIRD:
 
     # table extras
     table = table.loc[table.sum(axis=1).sort_values(ascending=False).index]
-    table = table.loc[:, table.sum(axis=0) > 0] # hides hours w/ no data
+    # table = table.loc[:, table.sum(axis=0) > 0] # hides hours w/ no entries
+    table = table.loc[table.sum(axis=1) >= MIN_DETECTIONS, :]
 
     table_norm = table.div(table.max(axis=1), axis=0)
 
@@ -184,7 +199,7 @@ if PLOT_TEMP:
         plt.scatter(bird_data["Timestamp"], bird_data["Battery_Voltage"], s=0.4, label="Battery", color="red")
         ax2.set_ylabel("Battery (V)", color="red")
         ax2.tick_params(axis="y", labelcolor="red")
-        ax2.set_ylim(bottom=0, top=4.3)
+        ax2.set_ylim(bottom=0, top=5.4)
 
         # Optional: combine legends
         lines, labels = ax.get_legend_handles_labels()
@@ -194,4 +209,59 @@ if PLOT_TEMP:
         plt.legend()
 
     ax.set_xlabel("Time")
+    plt.show()
+
+# if SPECIFIC_BIRD is not None:
+#     bird_data = bird_data[bird_data["Bird_Species"] == SPECIFIC_BIRD] # filter to bird(s)
+#     bird_data["Hour"] = bird_data["Timestamp"].dt.hour
+#     table = (
+#         bird_data
+#         .groupby(["Bird_Species", "Hour"])
+#         .size()
+#         .unstack(fill_value=0)
+#     )
+#
+#     table = table.reindex(columns=range(24), fill_value=0)
+#     table.columns = [hour_to_ampm(h) for h in table.columns]
+#
+#     print(table)
+#     table.plot.bar()
+#     plt.xlabel("Hour")
+#     plt.show() MID PLOT AND IT WORKS W/ the other one now
+
+if SPECIAL_PLOT:
+    BOX_WIDTH = 3
+    fig = plt.figure()
+
+    weather_df, rain_intervals = fetch_weather_with_rain_intervals(
+        LAT, LONG, start_time, end_time
+    )
+
+    weather_df["temperature"] = (9/5 * weather_df["temperature"]) + 32 # c to f
+
+    temp_temp_count = {} # solid variable naming
+    ACCEPTED_TIMES = [1, 2, 6, 7, 8, 11, 13, 14, 15, 16, 17, 18] # could do dynamically but im not
+    for idx, row in weather_df.iterrows():
+        recorded_hour = idx.hour
+        if recorded_hour in ACCEPTED_TIMES: continue
+        temp = (row["temperature"] - 21.02) * 1.2426035502958581 + 23.54
+        temp = BOX_WIDTH * round(temp / BOX_WIDTH)
+        if temp not in temp_temp_count:
+            temp_temp_count[temp] = 0
+        temp_temp_count[temp] += 1
+
+    temp_bird_count = {}
+    for idx, row in bird_data.iterrows():
+        temp = row["Temperature"]
+        temp = BOX_WIDTH * round(temp / BOX_WIDTH)
+        if temp not in temp_bird_count:
+            temp_bird_count[temp] = 0
+        temp_bird_count[temp] += 1
+
+    for k, v in temp_bird_count.items():
+        temp_bird_count[k] = v / temp_temp_count[k]
+
+    plt.scatter(temp_bird_count.keys(), temp_bird_count.values())
+
+    plt.xlabel("Temperature (F)")
     plt.show()

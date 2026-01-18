@@ -11,7 +11,7 @@ Each audio file is split into 3 second files and only one species is detected pe
 This code ideally will work infinitely with new files that are collected! The detection windows have been expanded to get more than just sunrise/sunset.
 
 ## Pictures!
-The bird chart. Only shows times with detections.
+The bird chart. Only shows times with detections! Airplanes are birds.
 ![Bird Chart](pics/bird_ex_1.png)
 
 The temperature graph. Pulls from historical Open-Meteo data and lat/long!
